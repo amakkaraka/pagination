@@ -16,14 +16,16 @@ const data = reactive({
     <div class="container">
       <div class="row">
         <div class="col-md-6 m-auto">
-          <h1>Hallo dunia</h1>
+          <h1>Hallo dunia </h1>
+          <h2>aga Kareba</h2>
+          <h3>Manisnya</h3>
         </div>
       </div>
     </div>
   </div>
 </template>
 
-<style>
+<style > 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
